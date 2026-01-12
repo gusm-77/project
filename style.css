@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4; /* Light gray background */
+    font-family: Arial, sans-serif; /* Change the default font */
+}
+
+h1 {
+    color: navy; /* Dark blue color for headings */
+    margin-left: 40px; /* Add some space on the left */
+}
+h2 {
+    color: blueviolet;
+    margin-left: 40px;
+}
+
+p {
+    color:greenyellow; /* Red color for paragraphs */
+}
