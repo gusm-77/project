@@ -1,17 +1,17 @@
 body {
-    background-color: #f4f4f4; /* Light gray background */
-    font-family: Arial, sans-serif; /* Change the default font */
+    background-color: rgb(219, 217, 97);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: navy; /* Dark blue color for headings */
-    margin-left: 40px; /* Add some space on the left */
-}
-h2 {
-    color: blueviolet;
+    color: blue;
     margin-left: 40px;
 }
 
+h2 {
+    color: blueviolet;
+}
+
 p {
-    color:greenyellow; /* Red color for paragraphs */
+    color: rgb(71, 60, 15);
 }
